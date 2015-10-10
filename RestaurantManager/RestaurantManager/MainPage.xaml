@@ -19,7 +19,7 @@
         </Grid.ColumnDefinitions>
         <TextBlock Grid.ColumnSpan="2" Text="Resturant Manager" Margin="377,259,365,10"/>
         <TextBlock Grid.ColumnSpan="2" Text="Internal Test Version" Margin="377,106,365,10" Grid.Row="1"/>
-        <TextBlock Text="**Go to Orders View**" Grid.Column="0" Grid.Row="2" Margin="86,126,95,130"/>
-        <TextBlock Text="**Submit Order**" Grid.Column="1" Grid.Row="2" Margin="128,127,127,130"/>
+        <Button Content="Go to Orders View" Grid.Column="0" Grid.Row="2" Margin="86,126,95,130" Click="Expedite_Click"/>
+        <Button Content="Submit Order" Grid.Column="1" Grid.Row="2" Margin="128,127,127,130" Click="Order_Click"/>
     </Grid>
 </Page>

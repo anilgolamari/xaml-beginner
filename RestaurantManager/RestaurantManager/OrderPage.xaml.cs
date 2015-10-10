@@ -19,9 +19,15 @@ namespace RestaurantManager {
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class ExpeditePage : Page {
-        public ExpeditePage() {
+    public sealed partial class orderPage : Page {
+        public orderPage() {
             this.InitializeComponent();
+            }
+
+        private void Homepagebutton_Click(object sender, RoutedEventArgs e) {
+            MainPage mainpage = new MainPage();
+            this.Content = mainpage; 
+
             }
         }
     }
