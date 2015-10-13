@@ -5,12 +5,16 @@
     xmlns:local="using:RestaurantManager"
     RequestedTheme="Light">
     <Application.Resources>
-        <Style TargetType="Button">
+        <Style TargetType="Button" x:Key="ButtonStyle">
             <Setter Property="FontSize" Value="32" />
         </Style>
-        <Style TargetType="TextBlock">
+        <Style TargetType="TextBlock" x:Key="TextBlockStyle">
             <Setter Property="FontSize" Value="32" />
         </Style>
+        <Style TargetType="ListView" x:Key="ListviewStyle">
+            <Setter Property="FontSize" Value="32" />
+        </Style>
+        <Binding x:Key="DataManager" />
     </Application.Resources>
 
 </Application>
