@@ -22,7 +22,7 @@
     <AppXManifest Include="C:\Users\anilg_000\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T19:49:49.185</Modified>
+      <Modified>2015-10-13T05:20:50.902</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -105,7 +105,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anilg_000\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\entrypoint\RestaurantManager.exe">
       <PackagePath>entrypoint\RestaurantManager.exe</PackagePath>
-      <Modified>2015-10-10T19:49:48.320</Modified>
+      <Modified>2015-10-13T05:20:50.025</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anilg_000\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -125,15 +125,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anilg_000\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-10-10T19:49:48.787</Modified>
+      <Modified>2015-10-13T05:20:50.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anilg_000\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.exe">
       <PackagePath>RestaurantManager.exe</PackagePath>
-      <Modified>2015-10-10T19:49:49.183</Modified>
+      <Modified>2015-10-13T05:20:50.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anilg_000\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.Models.dll">
+      <PackagePath>RestaurantManager.Models.dll</PackagePath>
+      <Modified>2015-10-13T03:36:57.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anilg_000\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml">
+      <PackagePath>RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml</PackagePath>
+      <Modified>2015-10-13T04:42:07.535</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anilg_000\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\RestaurantManager.xr.xml">
       <PackagePath>RestaurantManager.xr.xml</PackagePath>
-      <Modified>2015-10-10T19:49:48.272</Modified>
+      <Modified>2015-10-13T05:20:49.883</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anilg_000\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
